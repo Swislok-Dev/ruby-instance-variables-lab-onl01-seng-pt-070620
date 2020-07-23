@@ -1,5 +1,5 @@
 class Dog
   def this_dogs_name(name)
-    Dog = (name)
+    name = Dog.new
   end
 end
